@@ -1,0 +1,57 @@
+[
+  {
+    "name": "paracetamol ",
+    "location": "shel 5",
+    "quantity": 32,
+    "quality": "Good",
+    "rate": 54,
+    "price": 89,
+    "expiryDate": "2026-12-12",
+    "_id": "1792165584174",
+    "createdAt": "2026-10-16T15:46:24.174Z"
+  },
+  {
+    "name": "dsdsgry",
+    "location": "shel 4",
+    "quantity": 87,
+    "quality": "Good",
+    "rate": 49,
+    "price": 98,
+    "expiryDate": "2027-03-30",
+    "_id": "1792135514937",
+    "createdAt": "2026-10-16T07:25:14.937Z"
+  },
+  {
+    "name": "dsdsyf",
+    "location": "shel 3",
+    "quantity": 3,
+    "quality": "Good",
+    "rate": 45,
+    "price": 67,
+    "expiryDate": "2026-12-19",
+    "_id": "1792135456620",
+    "createdAt": "2026-10-16T07:24:16.620Z"
+  },
+  {
+    "name": "dsdsyf",
+    "location": "shel 3",
+    "quantity": 7,
+    "quality": "Good",
+    "rate": 45,
+    "price": 67,
+    "expiryDate": "2026-12-19",
+    "_id": "1792135441511",
+    "createdAt": "2026-10-16T07:24:01.511Z"
+  },
+  {
+    "name": "paracetamol",
+    "location": "reck 5",
+    "quantity": 4,
+    "quality": "Good",
+    "rate": 45,
+    "price": 878,
+    "expiryDate": "2026-10-30",
+    "_id": "1792081787295",
+    "createdAt": "2026-10-15T16:29:47.295Z"
+  }
+]

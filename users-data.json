@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "1792215970002",
+    "name": "Vivek Vishwakarma",
+    "phone": "123456789",
+    "role": "Store Owner",
+    "password": "12345",
+    "recoveryPin": "1234"
+  }
+]

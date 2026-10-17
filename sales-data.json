@@ -1,0 +1,68 @@
+[
+  {
+    "invoiceNo": "INV-466252",
+    "customerName": "Walk-in Customer",
+    "customerPhone": "",
+    "items": [
+      {
+        "_id": "1792135514937",
+        "name": "dsdsgry",
+        "rate": 49,
+        "price": 98,
+        "availableStock": 88,
+        "buyQty": 1,
+        "total": 98
+      }
+    ],
+    "subTotal": 98,
+    "discountAmount": 0,
+    "grandTotal": 98,
+    "profit": 49,
+    "billedBy": "Vivek Vishwakarma",
+    "dateStr": "17/10/2026, 12:44:29 pm",
+    "_id": "1792221269691",
+    "createdAt": "2026-10-17T07:14:29.691Z"
+  },
+  {
+    "invoiceNo": "INV-542912",
+    "customerName": "Walk-in Customer",
+    "customerPhone": "",
+    "items": [
+      {
+        "_id": "1792081787295",
+        "name": "paracetamol",
+        "rate": 45,
+        "price": 878,
+        "availableStock": 8,
+        "buyQty": 4,
+        "total": 3512
+      },
+      {
+        "_id": "1792165584174",
+        "name": "paracetamol ",
+        "rate": 54,
+        "price": 89,
+        "availableStock": 34,
+        "buyQty": 2,
+        "total": 178
+      },
+      {
+        "_id": "1792135514937",
+        "name": "dsdsgry",
+        "rate": 49,
+        "price": 98,
+        "availableStock": 89,
+        "buyQty": 1,
+        "total": 98
+      }
+    ],
+    "subTotal": 3788,
+    "discountAmount": 0,
+    "grandTotal": 3788,
+    "profit": 3451,
+    "billedBy": "Vivek Vishwakarma",
+    "dateStr": "17/10/2026, 11:18:58 am",
+    "_id": "1792216138365",
+    "createdAt": "2026-10-17T05:48:58.365Z"
+  }
+]
