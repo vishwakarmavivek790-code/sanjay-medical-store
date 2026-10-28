@@ -22,7 +22,7 @@ export default function Navbar({
     SALES: "Sales History",
   };
 
-  const showSearch = ["DASHBOARD", "MEDICINES", "PRICES"].includes(activeTab);
+  const showSearch = ["DASHBOARD", "MEDICINES", "PRICES" ,"LOCATION"].includes(activeTab);
 
   return (
     <header className="h-20 border-b border-gray-200 flex items-center justify-between px-8 bg-white print:hidden shrink-0">
